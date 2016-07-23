@@ -1,28 +1,28 @@
 # Airbnb CSS / Sass Styleguide
 
-*A mostly reasonable approach to CSS and Sass*
+*Akıllı CSS ve Sass geliştirme*
 
-## Table of Contents
+## İçindekiker
 
-  1. [Terminology](#terminology)
-    - [Rule Declaration](#rule-declaration)
-    - [Selectors](#selectors)
-    - [Properties](#properties)
+  1. [Terminoloji](#terminoloji)
+    - [Kurallar](#kurallar)
+    - [Seçiciler](#seçiciler)
+    - [Özellikler](#ozellikler)
   1. [CSS](#css)
-    - [Formatting](#formatting)
-    - [Comments](#comments)
-    - [OOCSS and BEM](#oocss-and-bem)
-    - [ID Selectors](#id-selectors)
-    - [JavaScript hooks](#javascript-hooks)
+    - [Düzen](#duzen)
+    - [Yorumlar](#yorumlar)
+    - [OOCSS ve BEM](#oocss-ve-bem)
+    - [ID seçiciler](#id-seciciler)
+    - [JavaScript seçiciler](#javascript-seciciler)
     - [Border](#border)
   1. [Sass](#sass)
     - [Syntax](#syntax)
-    - [Ordering](#ordering-of-property-declarations)
-    - [Variables](#variables)
+    - [Sıralama](#ozellik-siralamlari)
+    - [Değişkenler](#degiskenler)
     - [Mixins](#mixins)
-    - [Extend directive](#extend-directive)
-    - [Nested selectors](#nested-selectors)
-  1. [Translation](#translation)
+    - [Extend](#extend)
+    - [İç içe seçiciler](#ic-ice-seciciler)
+  1. [Çeviriler](#ceviriler)
 
 ## Terminology
 
